@@ -1,1 +1,1 @@
-# Machine_Learning_Project
+# Laptop_Price_Predictor_Project
